@@ -152,7 +152,7 @@ _Master of Arts in Diplomacy_
 
 #### Courses and Qualifications
 
-- CS50x: Introduction to Computer Science - HarvardX (2020)
+- CS50x: Introduction to Computer Science - _HarvardX_ (2020)
 - Data Nanodegree (Statistics, Python, SQL, A/B Test) - _Udacity_ (2020)
 - Advanced Google Analytics Individual Qualification - _Google Academy_ (2020)
 - Data Analysis Intensive (Python, SQL, Tableau) - _Step Function_ (2019)
