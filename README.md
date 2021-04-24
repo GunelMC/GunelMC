@@ -67,7 +67,7 @@ I enjoy solving problems using a combination of analytical frameworks, data and 
 - Scored a 690 (85th percentile globally) on [Graduate Management Admission Test (GMAT)](https://en.wikipedia.org/wiki/Graduate_Management_Admission_Test) exam, a computer adaptive test intended to assess analytical and quantitative reasoning skills (among others) within a month of preparation while working full time.
 - Completed a data science project in one week using R programming language to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017.
 
-#### Strong Project Management and Organisational skills.
+#### Strong Project Management and Organisational skills
 
 From organising charity events, where the bulk of work coincided with my final year exams and project, to working in fast-paced project-based environments such as sales and consulting against tight client deadlines, I have always thrived working under pressure thanks to my strong organisational and time-management skills. Some examples include:
 
@@ -164,4 +164,4 @@ _Master of Arts in Diplomacy_
 - **Paddle Boarding** - this was one of my favourite pastimes when I lived in Barcelona, Spain.
 - **Languages** - I love learning languages and am fluent in four: English, Russian, Turkish and Azeri. During my MBA, I also had a chance to learn Spanish. Currently, I am learning French.
 - **Travelling** - I think travelling is one of the best ways to expand our horizons. One trip that particularly stands out to me is the one to Maasai Mar in Southern Kenya, where I had a chance to meet some of the Maasai people.
-- Other: Reading, Cycling, Running and Yoga/Meditation
+- **Other**: Reading, Cycling, Running and Yoga/Meditation
