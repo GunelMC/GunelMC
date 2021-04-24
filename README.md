@@ -1,6 +1,8 @@
 ## Gunel Mehdiyeva-Chau
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/gunelmehdiyeva)
+[About me](#about-me) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/gunelmehdiyeva)
+
+## About me
 
 I am a creative and ambitious **Full Stack Developer** with commercial experience in product management, data analytics (stack: SQL/Python) and project management.
 
