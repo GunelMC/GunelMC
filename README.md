@@ -4,7 +4,7 @@
 
 <p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=GunelMC&show_icons=true&theme=radical" alt="Gunel MC's Github stats" width"50%"/></p>
 
-<p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GunelMC&layout=compact&theme=radical" alt="Gunel MC's Top Languages" width"50%"/></p>
+<p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GunelMC&layout=compact&theme=radical" alt="Gunel MC's Top Languages" width"100%"/></p>
 
 ## About me
 
