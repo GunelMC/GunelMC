@@ -2,6 +2,8 @@
 
 [About me](#about-me) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/gunelmehdiyeva)
 
+<p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=GunelMC&show_icons=true&theme=radical" alt="Gunel MC's Github stats" width"50%"/></p>
+
 ## About me
 
 I am a creative and ambitious **Full Stack Developer** with commercial experience in product management, data analytics (stack: SQL/Python) and project management.
