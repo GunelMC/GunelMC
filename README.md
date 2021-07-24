@@ -4,6 +4,8 @@
 
 <p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=GunelMC&show_icons=true&theme=radical" alt="Gunel MC's Github stats" width"50%"/></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunelMC&layout=compact)](https://github.com/GunelMC/github-readme-stats)
+
 ## About me
 
 I am a creative and ambitious **Full Stack Developer** with commercial experience in product management, data analytics (stack: SQL/Python) and project management.
