@@ -1,6 +1,6 @@
 ## Gunel Mehdiyeva-Chau
 
-[About me](#about-me) | [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/gunelmehdiyeva)
+[About me](#about-me) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/gunelmehdiyeva)
 
 <p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=GunelMC&show_icons=true&theme=radical" alt="Gunel MC's Github stats" width"50%"/></p>
 
@@ -16,7 +16,28 @@ A quick learner with cross-functional team experience in both analytical and cus
 
 ## Projects
 
+| Project                                  | Description                                                                                                              | Technologies Used                                                          | Testing Technologies |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | -------------------- |
+| [Project 1](https://github.com/)         | A cross-platform native mobile alarm clock app built for those who find it too hard to wake up in the morning - [Demo]() | NativeScript, Angular 2, Typescript, Javascript, CSS, Xcode                | Jasmine, Karma       |
+| [Project 2](https://github.com)          | Team project to build a Facebook clone - [Live](https://)                                                                | Ruby on Rails, JavaScript, PostgreSQL, RSpec, Bootstrap, Travis CI, Heroku | RSpec, Capybara      |
+| [Project 3](https://github.com)          | - [Live](https://)                                                                                                       | Ruby, Rails, Postgres /w ActiveRecord, OAuth, Devise, HTML5(HAML), SASS    | RSpec, Capybara      |
+| [Makers BnB](https://github.com)         | Team project to build an AirBnB clone.                                                                                   | Ruby, Sinatra, Bootstrap, OOD                                              | RSpec, Capybara      |
+| [Weather app](https://github.com)        | A mobile application that creates alarms that integrate real-time transit and weather data.                              | Ruby on Rails API, AngularJS, Ionic, and various APIs                      | RSpec, Capybara      |
+| [Chitter](https://github.com)            | Weekend challenge to clone Twitter                                                                                       | Ruby, Sinatra, Postgres /w DataMapper, HTML5(HAML), CSS3                   | RSpec, Capybara      |
+| [Takeaway Challenge](https://github.com) | A simple Ruby CLI application to process takeaway orders that included a Twilio API interface.                           | Ruby, OOD, Twilio API usage                                                | RSpec, Capybara      |
+
+## Tech Stack
+
 <p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GunelMC&layout=compact&theme=radical" alt="Gunel MC's Top Languages"/></p>
+
+- JavaScript (React, Next.js, Jest, Jasmine)
+- Ruby (Rails, Sinatra, RSpec, Capybara)
+- SQL (PostgreSQL, MySQL, TablePlus)
+- HTML & CSS
+- Python
+- Git, GitHub (including Pages, Actions, and Project Board)
+- Travis CI
+- Heroku
 
 ## Experience
 
