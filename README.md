@@ -1,10 +1,8 @@
 ## Gunel Mehdiyeva-Chau
 
-[About me](#about-me) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/gunelmehdiyeva)
+[About me](#about-me) | [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/gunelmehdiyeva)
 
 <p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=GunelMC&show_icons=true&theme=radical" alt="Gunel MC's Github stats" width"50%"/></p>
-
-<p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GunelMC&layout=compact&theme=radical" alt="Gunel MC's Top Languages"/></p>
 
 ## About me
 
@@ -15,6 +13,10 @@ I have over 8 years of experience working across multiple countries and industri
 I benefit from having a strong mix of commercial and technical experience including experience with data science and databases. I was fortunate enough to earn a competitive [Forté Foundation Fellowship - Women in Business scholarship](http://www.fortefoundation.org/site/PageServer?pagename=mba_fellows) that partially sponsored my Master of Business Administration (MBA) graduate degree from [IESE Business School](https://www.iese.edu/), where my team and I won Capstone Project Competition for our work with Hewlett Packard.
 
 A quick learner with cross-functional team experience in both analytical and customer-facing roles, I can deliver user-centric and creative (yet practical) solutions that draw from my multi-disciplinary background and deep understanding of internal and external stakeholders.
+
+## Projects
+
+<p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GunelMC&layout=compact&theme=radical" alt="Gunel MC's Top Languages"/></p>
 
 ## Experience
 
