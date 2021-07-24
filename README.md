@@ -1,4 +1,4 @@
-## Gunel Mehdiyeva-Chau
+<h1 align="center">Gunel Mehdiyeva-Chau (Gunel) - Software Developer</h1>
 
 [About me](#about-me) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/gunelmehdiyeva)
 
