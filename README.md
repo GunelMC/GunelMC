@@ -34,16 +34,14 @@ A quick learner with cross-functional team experience in both analytical and cus
 
 <p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GunelMC&layout=compact&theme=radical" alt="Gunel MC's Top Languages"/></p>
 
-- JavaScript (ES6, React, Next.js, Jest, Jasmine)
-- Ruby (Rails, RSpec, Capybara)
-- HTML5/CSS3
-- Databases (PostgreSQL, MySQL)
-- Python (Flask, Pandas, NumPy)
-- CI/CD (Travis CI, Github Actions)
-- Heroku
-- RESTful APIs
-- Version Control (Git, Github)
-- Other (OOP concepts, MVC structures, TDD)
+- Programming languages (JavaScript, Ruby, Python)
+- Web Frameworks (React, Ruby on Rails, Next.js)
+- Databases(PostgreSQL/MySQL/ActiveRecord)
+- Version control and CI/CD (Git/Github/Travis CI)
+- Object-Oriented Design (OOD), Controller Design Patterns, RESTful APIs,SOLID principles
+- Test Driven Development (RSpec, Capybara, Jest, Jasmine)
+- Agile/XP (pair programming, stand-ups, retros, and sprint planning)
+- Other(HTML5/CSS3, Heroku)
 
 ## Experience
 
@@ -151,14 +149,6 @@ Europe's Leading Full Stack Software Development Bootcamp
 - Worked in **Agile** project teams against tight deadlines using **pair programming**, **Git workflow** and **XP values**.
 - Frequently pair programmed to solve problems efficiently in a fully remote and self-led learning environment, which improved my teamwork and communication skills.
 - Successfully mentored two Makers students to help them achieve their personal and professional learning objectives.
-
-- **Methodologies/Tools**:
-  - Agile/XP (pair programming, stand-ups, retros, and sprint planning)
-  - Object-Oriented Design (OOD), Controller Design Patterns, SOLID principles
-  - Test Driven Development (RSpec, Jasmine, Mocha, Jest)
-  - Programming languages (Ruby, JavaScript, Python)
-  - Web Frameworks (Ruby on Rails, Django, React, Node.js, React Native)
-  - Version control and CI/CD (Git/Github/Travis CI)
 
 #### IESE Business School - Barcelona, Spain (2015 - 2017)
 
