@@ -34,14 +34,16 @@ A quick learner with cross-functional team experience in both analytical and cus
 
 <p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GunelMC&layout=compact&theme=radical" alt="Gunel MC's Top Languages"/></p>
 
-- JavaScript (React, Next.js, Jest, Jasmine)
-- Ruby (Rails, Sinatra, RSpec, Capybara)
-- SQL (PostgreSQL, MySQL, TablePlus)
-- HTML & CSS
-- Python
-- Git, GitHub (including Pages and Project Board)
-- Travis CI
+- JavaScript (ES6, React, Next.js, Jest, Jasmine)
+- Ruby (Rails, RSpec, Capybara)
+- Python (Flask, Pandas, NumPy)
+- Databases (PostgreSQL, MySQL)
+- HTML5/CSS3
+- CI/CD (Travis CI, Github Actions)
 - Heroku
+- RESTful APIs
+- Version Control (Git, Github)
+- Other (OOP concepts, MVC structures, TDD)
 
 ## Experience
 
