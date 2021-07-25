@@ -120,8 +120,9 @@ Working in team-based and project-based environments helped me develop valuable 
 
 I take pride in my innate intellectual curiosity and insatiable desire to learn how things work. You can see this in the long list of degrees, courses and countries on my CV. Most importantly, these learning experiences taught me the one essential skill that I believe will help me during my future career as a software developer - to learn how to learn quickly and most efficiently. Some examples include:
 
-- Built a [single-page map application](https://github.com/GunelMC/betwixt-1) within 2 weeks using an entirely new library(React) and framework(Next.js) with only limited Javascript knowledge (2 weeks of training at Makers).
-- Taught myself how to query and manipulate databases using SQL within a month for my job within the Growth and Analytics team.
+- Built a [single-page map application](https://github.com/GunelMC/betwixt-1) within 10 days using an entirely new library(React) and framework(Next.js) with only limited previous Javascript knowledge.
+- Taught myself how to manipulate databases using advanced SQL queries within a month for my job within the Growth and Analytics team.
+- Achieved a high GMAT score(690) with only a month of preparation while working fulltime.
 - Earned a state scholarship for a masters program after 20 days of preparation.
 - Taught myself Spanish within a month of arriving in Barcelona.
 
