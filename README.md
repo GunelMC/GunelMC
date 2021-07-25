@@ -12,14 +12,14 @@ I have over 8 years of experience working across multiple countries and industri
 
 I benefit from having a strong mix of commercial and technical experience including experience with data science and databases. I was fortunate enough to earn a competitive [Forté Foundation Fellowship - Women in Business scholarship](http://www.fortefoundation.org/site/PageServer?pagename=mba_fellows) that partially sponsored my Master of Business Administration (MBA) graduate degree from [IESE Business School](https://www.iese.edu/), where my team and I won Capstone Project Competition for our work with Hewlett Packard.
 
-A quick learner with cross-functional team experience in both analytical and customer-facing roles, I can deliver user-centric and creative (yet practical) solutions that draw from my multi-disciplinary background and deep understanding of internal and external stakeholders.
+A quick learner with cross-functional team experience in both analytical and customer-facing roles, I can deliver user-centric and creative (yet practical) solutions that draw from my multi-disciplinary background and deep understanding of internal and external stakeholder needs.
 
 ## Projects
 
 | Title                                                                        | Description                                                                                                                                                                                                               | Development Timeframe | Technologies & Testing Tools used                                                |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------- |
 | [Betwixt](https://github.com/GunelMC/betwixt-1)                              | An interactive single-page map application that finds the midpoint between two locations based on travel time and displays a list of local venues(restaurants, bars and cafes) within a selected radius of that midpoint. | 2 weeks               | React, Next.js, Google Maps API (Maps Javascript, Directions and Places), Vercel |
-| [Acebook](https://github.com/GunelMC/acebook-runtime-terrors)                | A group project to produce a social media platform using Ruby On Rails.                                                                                                                                                   | 2 weeks               | Rails API, Rspec-rails(Shoulda-matchers), Database_cleaner, Heroku, SimpleCov    |
+| [Acebook](https://github.com/GunelMC/acebook-runtime-terrors)                | A group project to produce a social media platform using Rails API to manage CRUD operations for several resources.                                                                                                       | 2 weeks               | Rails API, Rspec-rails(Shoulda-matchers), PostgreSQL database, Heroku, SimpleCov |
 | [MakersBnB](https://github.com/GunelMC/Makers_BnB)                           | A team project to build an AirBnB clone.                                                                                                                                                                                  | 1 week                | Ruby, Sinatra, Bootstrap, OOD, RSpec, Capybara                                   |
 | [Thermostat app](https://github.com/GunelMC/thermostat-javascript)           | A project to build a thermostat app with User Interface.                                                                                                                                                                  | 1 week                | Vanilla Javascript, Jasmine                                                      |
 | [Chitter](https://github.com/GunelMC/chitter-challenge)                      | A weekend challenge to build a Twitter clone.                                                                                                                                                                             | 2 days                | Ruby, Sinatra, PostgreSQL, HTML5(ERB), CSS3, RSpec, Capybara                     |
@@ -44,43 +44,43 @@ A quick learner with cross-functional team experience in both analytical and cus
 
 ## Experience
 
-**Step Function – E-learning Platform** (2020 - 2021)  
+**Step Function – E-learning Platform** - London, UK (2020 - 2021)  
 _Product Manager_
 
 - Developed product roadmap and defined vision and strategy for the e-learning platform.
 - Identified user needs based on user research; worked with engineers to translate requirements into product features.
 - Led re/prioritising the product backlog and creating user stories/epics in Jira.
 
-**Odlar Yurdu Enterprise – Real Estate Development** (2017 - 2018 | 2019 – 2020)  
+**Odlar Yurdu Enterprise – Real Estate Development** - Baku, Azerbaijan (2017 - 2018 | 2019 – 2020)  
 _Strategic Marketing Manager – Growth and Analytics Team_
 
 - Analysed and optimised campaign performance/spend via success metrics measuring, ROI analysis, and A/B testing.
 - Streamlined customer acquisition and retention strategy based on customer analysis (lifetime value/churn prediction), customer segmentation and targeted lead generation using statistical models and tools (Excel, SQL, Python).
 - Conducted marketing mix modelling (regression analysis) to quantify the impact of marketing activities on sales.
 
-**Gallup – International Data Analytics and Management Consulting** (2019)  
+**Gallup – International Data Analytics and Management Consulting** - London, UK (2019)  
 _Consultant – EMEA Partner Team_
 
 - Performed in-depth quantitative and qualitative research (inc. stakeholder interviews and competitive analysis) of Gallup’s software products; communicated findings to management via reports and presentations.
 - Collaborated with internal and external stakeholders to gather business requirements, define project scope, and gain buy-in on project roadmap, key milestones, and deliverables.
 - Managed stakeholder relationships within cross-functional matrix teams based in the US, UK, Germany and Bahrain.
 
-**Radiant Group of Hospitals – Private Healthcare Provider in Nairobi, Kenya** (2017)  
+**Radiant Group of Hospitals – Private Healthcare Provider - Nairobi, Kenya** (2017)  
 _Project Management Consultant – MBA Winter Internship_
 
 - Mapped and analysed patient flow to identify and fix operational inefficiencies/bottlenecks, predict demand and improve the patient experience as part of a 5-person project team.
 
-**US – Azerbaijan Chamber of Commerce – Investment Consulting Group** (2016)  
+**US – Azerbaijan Chamber of Commerce – Investment Consulting Group** - Washington DC, USA (2016)  
 _Project Management Consultant – MBA Summer Internship_
 
 - Managed customer engagement strategy of the Chamber across multiple social media platforms.
 
-**Odlar Yurdu Enterprise – Real Estate Development** (2012 - 2015)  
+**Odlar Yurdu Enterprise – Real Estate Development** - Baku, Azerbaijan (2012 - 2015)  
 _Assistant Marketing Manager – Growth and Analytics Team_
 
 - Identified new business development opportunities through market research and trend analysis.
 
-**ASE Express, OCS & UTI Worldwide Logistics – Logistics/Supply Chain** (2009 - 2012)  
+**ASE Express, OCS & UTI Worldwide Logistics – Logistics/Supply Chain** - Baku, Azerbaijan (2009 - 2012)  
 _Account Manager_ - (2010 - 2012)  
 _Senior Salesperson_ - (2009 - 2010)
 
@@ -113,12 +113,14 @@ Working in team-based and project-based environments helped me develop valuable 
 - Won MBA [Capstone Project Competition](https://mba.iese.edu/program/curriculum-content/capstone/) "Social Media (Enterprise Sales) Strategy for Hewlett Packard Enterprise", as part of a 5-member multinational team.
 - Authored a research report on market analysis and macro-economic evaluation of US-Azerbaijan trade relationship while working at the [United States-Azerbaijan Chamber of Commerce](https://www.usacc.org) in Washington DC, USA.
 - Mentored two new hires through successful onboarding as the Strategic Marketing Manager.
+- Successfully mentored two Makers students to help them achieve their personal and professional learning objectives.
 - Delivered numerous onsite client pitch presentations and RFPs as a Senior Salesperson at ASE Express. Got promoted to Key Account Manager within months after successfully hitting my sales targets despite no previous background in the industry.
 
 #### Fast and adaptable learner
 
 I take pride in my innate intellectual curiosity and insatiable desire to learn how things work. You can see this in the long list of degrees, courses and countries on my CV. Most importantly, these learning experiences taught me the one essential skill that I believe will help me during my future career as a software developer - to learn how to learn quickly and most efficiently. Some examples include:
 
+- Built a [single-page map application](https://github.com/GunelMC/betwixt-1) within 2 weeks using an entirely new library(React) and framework(Next.js) with only limited Javascript knowledge (2 weeks of training at Makers).
 - Taught myself how to query and manipulate databases using SQL within a month for my job within the Growth and Analytics team.
 - Earned a state scholarship for a masters program after 20 days of preparation.
 - Taught myself Spanish within a month of arriving in Barcelona.
@@ -137,13 +139,14 @@ I take pride in my innate intellectual curiosity and insatiable desire to learn 
 
 ## Education
 
-#### Makers Academy (03/2021 - 07/2021)
+#### Makers Academy - London, UK (03/2021 - 07/2021)
 
 Europe's Leading Full Stack Software Development Bootcamp
 
-- Developed software products using industry best practices like OOP, TDD, MVC, BDD, and SOLID principles.
-- Worked in project teams using agile methodologies: daily stand-ups, sprint planning and retros.
+- Developed web apps using software design principles such as **OOP, TDD, MVC, BDD** and state-of-the-art technology such as **React and Next.js**.
+- Worked in **Agile** project teams against tight deadlines using **pair programming**, **Git workflow** and **XP values**.
 - Frequently pair programmed to solve problems efficiently in a fully remote and self-led learning environment, which improved my teamwork and communication skills.
+- Successfully mentored two Makers students to help them achieve their personal and professional learning objectives.
 
 - **Methodologies/Tools**:
   - Agile/XP (pair programming, stand-ups, retros, and sprint planning)
@@ -153,7 +156,7 @@ Europe's Leading Full Stack Software Development Bootcamp
   - Web Frameworks (Ruby on Rails, Django, React, Node.js, React Native)
   - Version control and CI/CD (Git/Github/Travis CI)
 
-#### IESE Business School (2015 - 2017)
+#### IESE Business School - Barcelona, Spain (2015 - 2017)
 
 _Masters of Business Administration (MBA)_
 
@@ -163,7 +166,7 @@ _Masters of Business Administration (MBA)_
   - Decision Analysis (Bayes/Probability/Monte Carlo Simulation)
 - Awarded Forté Foundation Fellowship - Women in Business Scholarship (2015)
 
-#### Azerbaijan State Economic University (2010 - 2013)
+#### Azerbaijan State Economic University - Baku, Azerbaijan (2010 - 2013)
 
 _Bachelors in International Economics_
 
@@ -174,7 +177,7 @@ _Bachelors in International Economics_
   - International Accounting and Audit
   - International Currency Credit and Finance
 
-#### University of Nottingham (2007 - 2008)
+#### University of Nottingham - Nottingham, UK (2007 - 2008)
 
 _Master of Arts in Diplomacy_
 
@@ -194,4 +197,4 @@ _Master of Arts in Diplomacy_
 - **Paddle Boarding** - this was one of my favourite pastimes when I lived in Barcelona, Spain.
 - **Languages** - I love learning languages and am fluent in four: English, Russian, Turkish and Azeri. During my MBA, I also had a chance to learn Spanish. Currently, I am learning French.
 - **Travelling** - I think travelling is one of the best ways to expand our horizons. One trip that particularly stands out to me is the one to Maasai Mar in Southern Kenya, where I had a chance to meet some of the Maasai people.
-- **Other**: Reading, Cycling, Running and Yoga/Meditation
+- **Other**: Rowing, Paddle Boarding, Reading, Cycling, Running and Yoga/Meditation
