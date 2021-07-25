@@ -65,7 +65,7 @@ _Consultant – EMEA Partner Team_
 - Collaborated with internal and external stakeholders to gather business requirements, define project scope, and gain buy-in on project roadmap, key milestones, and deliverables.
 - Managed stakeholder relationships within cross-functional matrix teams based in the US, UK, Germany and Bahrain.
 
-**Radiant Group of Hospitals – Private Healthcare Provider - Nairobi, Kenya** (2017)  
+**Radiant Group of Hospitals – Private Healthcare Provider** - Nairobi, Kenya (2017)  
 _Project Management Consultant – MBA Winter Internship_
 
 - Mapped and analysed patient flow to identify and fix operational inefficiencies/bottlenecks, predict demand and improve the patient experience as part of a 5-person project team.
