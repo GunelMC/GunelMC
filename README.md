@@ -38,7 +38,7 @@ A quick learner with cross-functional team experience in both analytical and cus
 - SQL (PostgreSQL, MySQL, TablePlus)
 - HTML & CSS
 - Python
-- Git, GitHub (including Pages, Actions, and Project Board)
+- Git, GitHub (including Pages and Project Board)
 - Travis CI
 - Heroku
 
