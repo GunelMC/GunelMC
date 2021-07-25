@@ -32,7 +32,7 @@ A quick learner with cross-functional team experience in both analytical and cus
 
 ## Tech Stack
 
-<p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GunelMC&layout=compact&theme=radical" alt="Gunel MC's Top Languages"/></p>
+<p align="left"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GunelMC&layout=compact&theme=radical" alt="Gunel MC's Top Languages"/></p>
 
 - Programming languages (JavaScript, Ruby, Python)
 - Web Frameworks (React, Ruby on Rails, Next.js)
