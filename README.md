@@ -186,4 +186,4 @@ I take pride in my innate intellectual curiosity and genuine desire to understan
 - **Paddle Boarding** - this was one of my favourite pastimes when I lived in Barcelona, Spain.
 - **Languages** - I love learning languages and am fluent in four: English, Russian, Turkish and Azeri. During my MBA, I also had a chance to learn Spanish. Currently, I am learning French.
 - **Travelling** - I think travelling is one of the best ways to expand our horizons. One trip that particularly stands out to me is the one to the Maasai Mara National Reserve in Southern Kenya, where I had a chance to meet some of the Maasai people.
-- **Other** - Football, Rowing, Reading, Cycling, Running and Yoga/Meditation.
+- **Other** - Football (member of IESE Business School Women's Football team), Rowing, Reading, Cycling, Running and Yoga/Meditation.
