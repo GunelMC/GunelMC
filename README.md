@@ -89,9 +89,9 @@ _Senior Salesperson_ - (2009 - 2010)
 
 ## Skills
 
-#### Strong Analytical Mindset, Creative Problem Solving and Research skills 
+#### Strong Analytical Mindset, Creative Problem Solving and Research skills
 
-I enjoy solving problems using a combination of analytical frameworks, data and creative thinking. Some examples include:
+Throughout my career I have benefitted immensely from my solution-oriented mindset and efficient problem-solving skills using a combination of analytical frameworks, data and creative thinking. Some examples include:
 
 - Conducted regular analyses to measure the impact of our marketing initiatives on the company's bottom line as a Strategic Marketing Manager within the Growth and Analytics team. This involved advanced customer and campaign analytics, including calculating customer lifetime value and forecasting sales using tools such as advanced Excel, SQL, and Google Analytics.
 - Successfully delivered on one of the high-priority projects in [Gallup](https://www.gallup.com/corporate/212381/who-we-are.aspx), after quickly researching large amounts of data in multiple languages within a short deadline. See reference on my [Linkedin page](https://www.linkedin.com/in/gunelmehdiyeva/).
@@ -119,7 +119,7 @@ Working in team-based and project-based environments helped me develop valuable 
 
 #### Fast and adaptable learner
 
-I take pride in my innate intellectual curiosity and insatiable desire to learn how things work. You can see this in the long list of degrees, courses and countries on my CV. Most importantly, these learning experiences taught me the one essential skill that I believe will help me during my future career as a software developer - to learn how to learn quickly and most efficiently. Some examples include:
+I take pride in my innate intellectual curiosity and genuine desire to understand how things work. You can see this in the long list of degrees, courses and countries on my CV. Most importantly, these learning experiences taught me the one essential skill that I believe will help me during my future career as a software developer - to learn how to learn quickly and most efficiently. Some examples include:
 
 - Built a [single-page map application](https://github.com/GunelMC/betwixt) within 10 days using an entirely new library(React) and framework(Next.js) with only limited previous Javascript knowledge.
 - Taught myself how to manipulate databases using advanced SQL queries within a month for my job within the Growth and Analytics team.
