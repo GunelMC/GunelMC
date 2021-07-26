@@ -88,51 +88,6 @@ _Senior Salesperson_ - (2009 - 2010)
 
 - Successfully prepared and delivered numerous onsite client pitch presentations and RFPs.
 
-## Skills
-
-#### Strong Analytical Mindset, Creative Problem Solving and Research skills
-
-Throughout my career I have benefitted immensely from my solution-oriented mindset and efficient problem-solving skills using a combination of analytical frameworks, data and creative thinking. Some examples include:
-
-- Conducted regular analyses to measure the impact of our marketing initiatives on the company's bottom line as part of the Growth and Analytics team. This involved advanced customer and campaign analytics, including calculating customer lifetime value and forecasting sales using tools such as advanced Excel, SQL, and Google Analytics.
-- Successfully delivered on one of the high-priority projects in [Gallup](https://www.gallup.com/corporate/212381/who-we-are.aspx), after quickly researching large amounts of data in multiple languages within a short deadline. See reference on my [Linkedin page](https://www.linkedin.com/in/gunelmehdiyeva/).
-- Authored a research report on market analysis and macro-economic evaluation of US-Azerbaijan trade relationship while working at the [United States-Azerbaijan Chamber of Commerce](https://www.usacc.org) in Washington DC, USA.
-- Successfully completed a data science project within a week using R programming language to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017.
-- Scored a 690 (85th percentile globally) on [Graduate Management Admission Test (GMAT)](https://en.wikipedia.org/wiki/Graduate_Management_Admission_Test) exam, a computer adaptive test intended to assess analytical and quantitative reasoning skills (among others) within a month of preparation while working full time.
-
-#### Strong Project Management and Organisational skills
-
-Working in fast-paced project-based environments such as consulting, project management and marketing honed my organisational and time-management skills. Some examples where I have demonstrated these include:
-
-- Managed the Unified Investment Platform project to help 12 US-based SMEs expand into the Black-Caspian Sea Region as a Project Management Consultant at USACC.
-- Helped organise[ “Doing Good Doing Well” Conference](https://www.ieserbc.com/) to promote responsible business through Sustainable Development Goals.
-- Organised two charity events (an exhibition-auction for sales of refugee children’s handicrafts and a fundraising concert for supporting treatment of children with Down Syndrome) during my finals. Despite the deadline pressure, I was included in the Dean’s Honor List for high GPA (94.8 out of 100).
-
-#### Effective Communication, Teamwork and Leadership skills
-
-Working in team- and project-based environments helped me develop valuable teamwork, communication and stakeholder management skills. I have extensive experience working with people from diverse backgrounds, solving problems in team settings and presenting findings to both technical and non-technical teams. Some examples include:
-
-- Mentored two aspiring software developers to help them achieve their personal and professional learning objectives through Makers.
-- Won MBA [Capstone Project Competition](https://mba.iese.edu/program/curriculum-content/capstone/) "Social Media (Enterprise Sales) Strategy for Hewlett Packard Enterprise", as part of a 5-member multinational team.
-- Delivered multiple successful presentations in front of internal and external stakeholders as a consultant at Gallup while working closely with cross-functional project teams based in the UK, USA, Germany and Bahrain.
-- Co-founded and led Youth Development Public Union, a fundraising NGO for underprivileged children.
-- Mentored two new hires through successful onboarding as the Strategic Marketing Manager.
-- Successfully delivered multiple projects as a member of several agile software development teams while at Makers Academy.
-
-#### Fast and adaptable learner
-
-I take pride in my innate intellectual curiosity and genuine desire to understand how things work. The diversity of experiences I have been through taught me an essential skill required of many successful software developers - the ability to learn quickly and efficiently. Some examples include:
-
-- Built a [single-page map application](https://github.com/GunelMC/betwixt) within 10 days using an entirely new library (React) and framework (Next.js) with only limited previous Javascript knowledge.
-- Taught myself how to manipulate databases using advanced SQL queries within a month for my job within the Growth and Analytics team.
-- Earned a state scholarship for a masters program after 20 days of preparation.
-- Taught myself Spanish within a month of arriving in Barcelona.
-
-#### Understanding of Databases:
-
-- Worked with large and fragmented datasets using tools like Excel, SQL and Python as part of the Growth and Analytics team.
-- Completed several evening classes on Relational Databases and Database Design with SQL offered by [City University](https://www.city.ac.uk/) to improve my understanding of complex databases.
-
 ## Education
 
 #### Makers Academy - London, UK (03/2021 - 07/2021)
@@ -179,6 +134,51 @@ _Master of Arts in Diplomacy_
 - **Data Analysis Intensive (Python, SQL, Tableau)** - _Step Function_ (2019)
 - **Building Websites with HTML5 and CSS3** - _City University_ (2018)
 - **Relational Database Design with SQL Server** - _City University_ (2017)
+
+## Skills
+
+#### Strong Analytical Mindset, Creative Problem Solving and Research skills
+
+Throughout my career I have benefitted immensely from my solution-oriented mindset and efficient problem-solving skills using a combination of analytical frameworks, data and creative thinking. Some examples include:
+
+- Conducted regular analyses to measure the impact of our marketing initiatives on the company's bottom line as part of the Growth and Analytics team. This involved advanced customer and campaign analytics, including calculating customer lifetime value and forecasting sales using tools such as advanced Excel, SQL, and Google Analytics.
+- Successfully delivered on one of the high-priority projects in [Gallup](https://www.gallup.com/corporate/212381/who-we-are.aspx), after quickly researching large amounts of data in multiple languages within a short deadline. See reference on my [Linkedin page](https://www.linkedin.com/in/gunelmehdiyeva/).
+- Authored a research report on market analysis and macro-economic evaluation of US-Azerbaijan trade relationship while working at the [United States-Azerbaijan Chamber of Commerce](https://www.usacc.org) in Washington DC, USA.
+- Successfully completed a data science project within a week using R programming language to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017.
+- Scored a 690 (85th percentile globally) on [Graduate Management Admission Test (GMAT)](https://en.wikipedia.org/wiki/Graduate_Management_Admission_Test) exam, a computer adaptive test intended to assess analytical and quantitative reasoning skills (among others) within a month of preparation while working full time.
+
+#### Strong Project Management and Organisational skills
+
+Working in fast-paced project-based environments such as consulting, project management and marketing honed my organisational and time-management skills. Some examples where I have demonstrated these include:
+
+- Managed the Unified Investment Platform project to help 12 US-based SMEs expand into the Black-Caspian Sea Region as a Project Management Consultant at USACC.
+- Helped organise[ “Doing Good Doing Well” Conference](https://www.ieserbc.com/) to promote responsible business through Sustainable Development Goals.
+- Organised two charity events (an exhibition-auction for sales of refugee children’s handicrafts and a fundraising concert for supporting treatment of children with Down Syndrome) during my finals. Despite the deadline pressure, I was included in the Dean’s Honor List for high GPA (94.8 out of 100).
+
+#### Effective Communication, Teamwork and Leadership skills
+
+Working in team- and project-based environments helped me develop valuable teamwork, communication and stakeholder management skills. I have extensive experience working with people from diverse backgrounds, solving problems in team settings and presenting findings to both technical and non-technical teams. Some examples include:
+
+- Mentored two aspiring software developers to help them achieve their personal and professional learning objectives through Makers.
+- Won MBA [Capstone Project Competition](https://mba.iese.edu/program/curriculum-content/capstone/) "Social Media (Enterprise Sales) Strategy for Hewlett Packard Enterprise", as part of a 5-member multinational team.
+- Delivered multiple successful presentations in front of internal and external stakeholders as a consultant at Gallup while working closely with cross-functional project teams based in the UK, USA, Germany and Bahrain.
+- Co-founded and led Youth Development Public Union, a fundraising NGO for underprivileged children.
+- Mentored two new hires through successful onboarding as the Strategic Marketing Manager.
+- Successfully delivered multiple projects as a member of several agile software development teams while at Makers Academy.
+
+#### Fast and adaptable learner
+
+I take pride in my innate intellectual curiosity and genuine desire to understand how things work. The diversity of experiences I have been through taught me an essential skill required of many successful software developers - the ability to learn quickly and efficiently. Some examples include:
+
+- Built a [single-page map application](https://github.com/GunelMC/betwixt) within 10 days using an entirely new library (React) and framework (Next.js) with only limited previous Javascript knowledge.
+- Taught myself how to manipulate databases using advanced SQL queries within a month for my job within the Growth and Analytics team.
+- Earned a state scholarship for a masters program after 20 days of preparation.
+- Taught myself Spanish within a month of arriving in Barcelona.
+
+#### Understanding of Databases:
+
+- Worked with large and fragmented datasets using tools like Excel, SQL and Python as part of the Growth and Analytics team.
+- Completed several evening classes on Relational Databases and Database Design with SQL offered by [City University](https://www.city.ac.uk/) to improve my understanding of complex databases.
 
 ## Hobbies and Interests
 
