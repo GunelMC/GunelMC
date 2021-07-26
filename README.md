@@ -69,7 +69,8 @@ _Consultant – EMEA Partner Team_
 **Radiant Group of Hospitals – Private Healthcare Provider** - Nairobi, Kenya (2017)  
 _Project Management Consultant – MBA Winter Internship_
 
-- Mapped and analysed patient flow to identify and fix operational inefficiencies/bottlenecks, predict demand and improve the patient experience as part of a 5-person project team.
+- Worked as part of a 5-person project team to identify and fix operational inefficiencies and bottlenecks at a local hospital.
+- Mapped and analysed patient flow to predict demand and improve the patient experience.
 
 **US – Azerbaijan Chamber of Commerce – Investment Consulting Group** - Washington DC, USA (2016)  
 _Project Management Consultant – MBA Summer Internship_
@@ -132,13 +133,6 @@ I take pride in my innate intellectual curiosity and genuine desire to understan
 
 - Worked with large and fragmented datasets using tools like Excel, SQL and Python as part of the Growth and Analytics team.
 - Completed several evening classes on Relational Databases and Database Design with SQL offered by [City University](https://www.city.ac.uk/) to improve my understanding of complex databases.
-
-#### Additional skills
-
-- **Strategic thinking**
-- **Strong attention to detail**
-- **Understanding of Software Development Life Cycle**
-- **Foreign languages** : Fluent English, Russian, Turkish and Azeri; intermediate Spanish and French
 
 ## Education
 
