@@ -96,7 +96,7 @@ Throughout my career I have benefitted immensely from my solution-oriented minds
 - Conducted regular analyses to measure the impact of our marketing initiatives on the company's bottom line as a Strategic Marketing Manager within the Growth and Analytics team. This involved advanced customer and campaign analytics, including calculating customer lifetime value and forecasting sales using tools such as advanced Excel, SQL, and Google Analytics.
 - Successfully delivered on one of the high-priority projects in [Gallup](https://www.gallup.com/corporate/212381/who-we-are.aspx), after quickly researching large amounts of data in multiple languages within a short deadline. See reference on my [Linkedin page](https://www.linkedin.com/in/gunelmehdiyeva/).
 - Authored a research report on market analysis and macro-economic evaluation of US-Azerbaijan trade relationship while working at the [United States-Azerbaijan Chamber of Commerce](https://www.usacc.org) in Washington DC, USA.
-- Successfully completed a data science project within one week using R programming language to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017.
+- Successfully completed a data science project within a week using R programming language to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017.
 - Scored a 690 (85th percentile globally) on [Graduate Management Admission Test (GMAT)](https://en.wikipedia.org/wiki/Graduate_Management_Admission_Test) exam, a computer adaptive test intended to assess analytical and quantitative reasoning skills (among others) within a month of preparation while working full time.
 
 #### Strong Project Management and Organisational skills
@@ -123,7 +123,7 @@ I take pride in my innate intellectual curiosity and genuine desire to understan
 
 - Built a [single-page map application](https://github.com/GunelMC/betwixt) within 10 days using an entirely new library(React) and framework(Next.js) with only limited previous Javascript knowledge.
 - Taught myself how to manipulate databases using advanced SQL queries within a month for my job within the Growth and Analytics team.
-- Achieved a high GMAT score(690) with only a month of preparation while working fulltime.
+- Achieved a high GMAT score with only a month of preparation while working fulltime.
 - Earned a state scholarship for a masters program after 20 days of preparation.
 - Taught myself Spanish within a month of arriving in Barcelona.
 
@@ -136,7 +136,7 @@ I take pride in my innate intellectual curiosity and genuine desire to understan
 
 - **Strategic thinking**
 - **Strong attention to detail**
-- **Understanding of Software development life cycle**
+- **Understanding of Software Development Life Cycle**
 - **Foreign languages** : Fluent English, Russian, Turkish and Azeri; intermediate Spanish and French
 
 ## Education
