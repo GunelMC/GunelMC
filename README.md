@@ -114,7 +114,7 @@ Working in team-based and project-based environments helped me develop valuable 
 - Won MBA [Capstone Project Competition](https://mba.iese.edu/program/curriculum-content/capstone/) "Social Media (Enterprise Sales) Strategy for Hewlett Packard Enterprise", as part of a 5-member multinational team.
 - Authored a research report on market analysis and macro-economic evaluation of US-Azerbaijan trade relationship while working at the [United States-Azerbaijan Chamber of Commerce](https://www.usacc.org) in Washington DC, USA.
 - Mentored two new hires through successful onboarding as the Strategic Marketing Manager.
-- Successfully mentored two Makers students to help them achieve their personal and professional learning objectives.
+- Mentored two Makers students to help them achieve their personal and professional learning objectives.
 - Delivered numerous onsite client pitch presentations and RFPs as a Senior Salesperson at ASE Express. Got promoted to Key Account Manager within months after successfully hitting my sales targets despite no previous background in the industry.
 
 #### Fast and adaptable learner
