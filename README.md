@@ -1,6 +1,6 @@
 <h1 align="center">Gunel Mehdiyeva-Chau (Gunel) - Software Developer</h1>
 
-[About me](#about-me) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/gunelmehdiyeva)
+[About me](#about-me) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/gunelmehdiyeva)
 
 <p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=GunelMC&show_icons=true&theme=radical" alt="Gunel MC's Github stats" width"50%"/></p>
 
