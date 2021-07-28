@@ -108,15 +108,11 @@ _Masters of Business Administration (MBA)_
 
 #### Azerbaijan State Economic University - Baku, Azerbaijan (2010 - 2013)
 
-_Bachelors in International Economics_
-
-- Distinction; GPA 3.8/4
+_Bachelors in International Economics_ - Distinction (GPA 3.8/4)
 
 #### University of Nottingham - Nottingham, UK (2007 - 2008)
 
-_Master of Arts in Diplomacy_
-
-- Merit (2:1)
+_Master of Arts in Diplomacy_ - Merit (2:1)
 
 #### Courses and Qualifications
 
@@ -136,7 +132,7 @@ Throughout my career I have benefitted immensely from my solution-oriented minds
 - Successfully delivered on one of the high-priority projects in [Gallup](https://www.gallup.com/corporate/212381/who-we-are.aspx), after quickly researching large amounts of data in multiple languages within a short deadline. See reference on my [Linkedin page](https://www.linkedin.com/in/gunelmehdiyeva/).
 - Authored a research report on market analysis and macro-economic evaluation of US-Azerbaijan trade relationship while working at the [United States-Azerbaijan Chamber of Commerce](https://www.usacc.org) in Washington DC, USA.
 - Successfully completed a data science project within a week using R programming language to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017.
-- Scored a 690 (85th percentile globally) on [Graduate Management Admission Test (GMAT)](https://en.wikipedia.org/wiki/Graduate_Management_Admission_Test) exam, a computer adaptive test intended to assess analytical and quantitative reasoning skills (among others) within a month of preparation while working full time.
+- Scored a 690 (85th percentile globally) on [Graduate Management Admission Test (GMAT)](https://en.wikipedia.org/wiki/Graduate_Management_Admission_Test) exam, a computer adaptive test intended to assess analytical and quantitative reasoning skills within a month of preparation while working full time.
 
 #### Strong Project Management and Organisational skills
 
@@ -144,7 +140,7 @@ Working in fast-paced project-based environments such as consulting, project man
 
 - Managed the Unified Investment Platform project to help 12 US-based SMEs expand into the Black-Caspian Sea Region as a Project Management Consultant at USACC.
 - Helped organise[ “Doing Good Doing Well” Conference](https://www.ieserbc.com/) to promote responsible business through Sustainable Development Goals.
-- Organised two charity events (an exhibition-auction for sales of refugee children’s handicrafts and a fundraising concert for supporting treatment of children with Down Syndrome) during my finals. Despite the deadline pressure, I was included in the Dean’s Honor List for high GPA (94.8 out of 100).
+- Organised two charity events (an exhibition-auction to support refugee children and a fundraising concert to fund treatment of children with Down Syndrome) during my finals - was included in the Dean’s Honor List for high GPA (94.8 out of 100).
 
 #### Effective Communication, Teamwork and Leadership skills
 
@@ -153,7 +149,7 @@ I have extensive experience working with people from diverse backgrounds, solvin
 - Won MBA [Capstone Project Competition](https://mba.iese.edu/program/curriculum-content/capstone/) "Social Media (Enterprise Sales) Strategy for Hewlett Packard Enterprise", as part of a 5-member multinational team.
 - Delivered multiple presentations in front of internal and external stakeholders as a consultant at Gallup while working closely with cross-functional project teams based in the UK, USA, Germany and Bahrain.
 - Co-founded and led Youth Development Public Union, a fundraising NGO for underprivileged children.
-- Successfully delivered multiple projects as a member of several agile software development teams while at Makers Academy.
+- Successfully delivered multiple projects as a member of several agile software development teams while at Makers.
 
 #### Fast and adaptable learner
 
