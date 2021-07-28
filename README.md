@@ -112,7 +112,7 @@ _Bachelors in International Economics_ - Distinction (GPA 3.8/4)
 
 #### University of Nottingham - Nottingham, UK (2007 - 2008)
 
-_Master of Arts in Diplomacy(International Relations and Politics)_ - Merit (2:1)
+_Master of Arts in Diplomacy (International Relations and Politics)_ - Merit (2:1)
 
 #### Courses and Qualifications
 
