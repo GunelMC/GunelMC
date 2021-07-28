@@ -121,7 +121,7 @@ _Master of Arts in Diplomacy_ - Merit (2:1)
 - **Advanced Google Analytics Individual Qualification** - _Google Academy_ (2020)
 - **Data Analysis Intensive (Python, SQL, Tableau)** - _Step Function_ (2019)
 - **Building Websites with HTML5 and CSS3** - _City University_ (2018)
-- **Relational Database Design with SQL Server** - _City University_ (2017)
+- **Relational Database Design with Microsoft SQL Server** - _City University_ (2017)
 - **Introduction to SQL and Relational Databases with Oracle:** - _City University_ (2017)
 
 ## Skills
