@@ -18,14 +18,14 @@ A quick learner with cross-functional team experience in both analytical and cus
 
 ## Projects
 
-| Title                                                          | Description                                                                                                                                                                                                                 | Development Timeframe | Technologies & Testing Tools used                                                                 |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------- |
-| [Betwixt](https://github.com/GunelMC/betwixt-1)                | An interactive single-page map application that finds the midpoint between two locations based on travel time and displays a list of local venues (restaurants, bars, and cafes) within a selected radius of that midpoint. Heavily contributed to the project from ideation to the development of features, including working with data from Google APIs, and rendering it using different React Components.| 2 weeks               | React, Next.js, HTML, CSS, AJAX, Google Maps API (Maps Javascript, Directions and Places), Vercel |
-| [Acebook](https://github.com/GunelMC/acebook-runtime-terrors)  | A group project to develop a social media platform which included building an Authentication and Authorisation system from scratch using Ruby on Rails.                                                                     | 2 weeks               | Ruby on Rails, PostgreSQL/ActiveRecord, Bcrypt, HTML(ERB), CSS, Heroku, Rspec-rails, SimpleCov    |
-| [MakersBnB](https://github.com/GunelMC/Makers_BnB)             | A team project to build an AirBnB clone ground up with Sinatra.                                                                                                                                                             | 1 week                | Ruby, Sinatra, PostgreSQL, Bcrypt, HTML, CSS, RSpec, Capybara                                     |
-| [Notes App](https://github.com/GunelMC/notes-js)               | A project to build a Single-Page Application that follows the MVC pattern, using no frameworks and building our own testing library.                                                                                        | 1 week                | Vanilla JavaScript, HTML, CSS, Homemade Testing Library (including stubs/mocks)                   |
-| [Bank Tech Test](https://github.com/GunelMC/bank-tech-test)    | A mock tech test to build a simple banking application using TDD, OOD principles and best practices.                                                                                                                        | 3 days                | Ruby, RSpec, Rubocop, SimpleCov, OOD/SRP, TDD - 100% Test Coverage                                |
-| [Gilded Rose](https://github.com/GunelMC/-gilded-rose-js-jest) | A mock tech test/coding kata to refactor a legacy code using TDD and industry best practices.                                                                                                                               | 2 days                | Vanilla JavaScript, Eslint, Jest, TDD - 100% test coverage                                        |
+| Title                                                          | Description                                                                                                                                                                                                                                                                                                                                                                                                   | Development Timeframe | Technologies & Testing Tools used                                                                 |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------- |
+| [Betwixt](https://github.com/GunelMC/betwixt-1)                | An interactive single-page map application that finds the midpoint between two locations based on travel time and displays a list of local venues (restaurants, bars, and cafes) within a selected radius of that midpoint. Heavily contributed to the project from ideation to the development of features, including working with data from Google APIs, and rendering it using different React Components. | 2 weeks               | React, Next.js, HTML, CSS, AJAX, Google Maps API (Maps Javascript, Directions and Places), Vercel |
+| [Acebook](https://github.com/GunelMC/acebook-runtime-terrors)  | A group project to develop a social media platform which included building an Authentication and Authorisation system from scratch using Ruby on Rails.                                                                                                                                                                                                                                                       | 2 weeks               | Ruby on Rails, PostgreSQL/ActiveRecord, Bcrypt, HTML(ERB), CSS, Heroku, Rspec-rails, SimpleCov    |
+| [MakersBnB](https://github.com/GunelMC/Makers_BnB)             | A team project to build an AirBnB clone ground up with Sinatra.                                                                                                                                                                                                                                                                                                                                               | 1 week                | Ruby, Sinatra, PostgreSQL, Bcrypt, HTML, CSS, RSpec, Capybara                                     |
+| [Notes App](https://github.com/GunelMC/notes-js)               | A project to build a Single-Page Application that follows the MVC pattern, using no frameworks and building our own testing library.                                                                                                                                                                                                                                                                          | 1 week                | Vanilla JavaScript, HTML, CSS, Homemade Testing Library (including stubs/mocks)                   |
+| [Bank Tech Test](https://github.com/GunelMC/bank-tech-test)    | A mock tech test to build a simple banking application using TDD, OOD principles and best practices.                                                                                                                                                                                                                                                                                                          | 3 days                | Ruby, RSpec, Rubocop, SimpleCov, OOD/SRP, TDD - 100% Test Coverage                                |
+| [Gilded Rose](https://github.com/GunelMC/-gilded-rose-js-jest) | A mock tech test/coding kata to refactor a legacy code using TDD and industry best practices.                                                                                                                                                                                                                                                                                                                 | 2 days                | Vanilla JavaScript, Eslint, Jest, TDD - 100% test coverage                                        |
 
 ## Tech Stack
 
@@ -53,7 +53,7 @@ _Product Manager_
 _Strategic Marketing Manager – Growth and Analytics Team_
 
 - Analysed and optimised campaign performance/spend via success metrics measuring, ROI analysis, and A/B testing.
-- Streamlined customer acquisition and retention strategy based on customer analysis (lifetime value/churn prediction), customer segmentation and targeted lead generation using statistical models and tools (Excel, SQL, Python).
+- Streamlined customer acquisition and retention strategy based on advanced data analysis (lifetime value/churn prediction), customer segmentation and targeted lead generation using statistical models and tools (Excel, SQL, Python).
 - Conducted marketing mix modelling (regression analysis) to quantify the impact of marketing activities on sales.
 
 **Gallup – International Data Analytics and Management Consulting** - London, UK (2019)  
@@ -83,7 +83,7 @@ _Assistant Marketing Manager – Growth and Analytics Team_
 _Account Manager_ - (2010 - 2012)  
 _Senior Salesperson_ - (2009 - 2010)
 
-- Successfully prepared and delivered numerous onsite client pitch presentations and RFPs.
+- Increased B2B solution sales by >3% through effective growth strategies and relationship building.
 
 ## Education
 
@@ -94,7 +94,7 @@ _A Leading Full Stack Software Development Bootcamp in London, UK_
 - Developed web apps using software design principles such as **OOP, TDD, MVC, BDD** and state-of-the-art technology such as **React and Next.js**.
 - Worked in **Agile** project teams against tight deadlines using **pair programming**, **Git workflow** and **XP values**.
 - Frequently pair programmed to solve problems efficiently in a fully remote and self-led learning environment, which improved my teamwork and communication skills.
-- Successfully mentored two Makers students to help them achieve their personal and professional learning objectives.
+- Mentored two aspiring software developers to help them achieve their personal and professional learning objectives.
 
 #### IESE Business School - Barcelona, Spain (2015 - 2017)
 
@@ -111,11 +111,6 @@ _Masters of Business Administration (MBA)_
 _Bachelors in International Economics_
 
 - Distinction; GPA 3.8/4
-- Relevant Coursework:
-  - Information Systems in IER
-  - International Statistics
-  - International Accounting and Audit
-  - International Currency Credit and Finance
 
 #### University of Nottingham - Nottingham, UK (2007 - 2008)
 
@@ -138,7 +133,6 @@ _Master of Arts in Diplomacy_
 
 Throughout my career I have benefitted immensely from my solution-oriented mindset and efficient problem-solving skills using a combination of analytical frameworks, data and creative thinking. Some examples include:
 
-- Conducted regular analyses to measure the impact of our marketing initiatives on the company's bottom line as part of the Growth and Analytics team. This involved advanced customer and campaign analytics, including calculating customer lifetime value and forecasting sales using tools such as advanced Excel, SQL, and Google Analytics.
 - Successfully delivered on one of the high-priority projects in [Gallup](https://www.gallup.com/corporate/212381/who-we-are.aspx), after quickly researching large amounts of data in multiple languages within a short deadline. See reference on my [Linkedin page](https://www.linkedin.com/in/gunelmehdiyeva/).
 - Authored a research report on market analysis and macro-economic evaluation of US-Azerbaijan trade relationship while working at the [United States-Azerbaijan Chamber of Commerce](https://www.usacc.org) in Washington DC, USA.
 - Successfully completed a data science project within a week using R programming language to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017.
@@ -146,7 +140,7 @@ Throughout my career I have benefitted immensely from my solution-oriented minds
 
 #### Strong Project Management and Organisational skills
 
-Working in fast-paced project-based environments such as consulting, project management and marketing honed my organisational and time-management skills. Some examples where I have demonstrated these include:
+Working in fast-paced project-based environments such as consulting, project management and marketing honed my organisational and time-management skills. Some examples include:
 
 - Managed the Unified Investment Platform project to help 12 US-based SMEs expand into the Black-Caspian Sea Region as a Project Management Consultant at USACC.
 - Helped organise[ “Doing Good Doing Well” Conference](https://www.ieserbc.com/) to promote responsible business through Sustainable Development Goals.
@@ -154,23 +148,20 @@ Working in fast-paced project-based environments such as consulting, project man
 
 #### Effective Communication, Teamwork and Leadership skills
 
-Working in team- and project-based environments helped me develop valuable teamwork, communication and stakeholder management skills. I have extensive experience working with people from diverse backgrounds, solving problems in team settings and presenting findings to both technical and non-technical teams. Some examples include:
+I have extensive experience working with people from diverse backgrounds, solving problems in team settings and presenting findings to both technical and non-technical teams. Some examples include:
 
-- Mentored two aspiring software developers to help them achieve their personal and professional learning objectives through Makers.
 - Won MBA [Capstone Project Competition](https://mba.iese.edu/program/curriculum-content/capstone/) "Social Media (Enterprise Sales) Strategy for Hewlett Packard Enterprise", as part of a 5-member multinational team.
-- Delivered multiple successful presentations in front of internal and external stakeholders as a consultant at Gallup while working closely with cross-functional project teams based in the UK, USA, Germany and Bahrain.
+- Delivered multiple presentations in front of internal and external stakeholders as a consultant at Gallup while working closely with cross-functional project teams based in the UK, USA, Germany and Bahrain.
 - Co-founded and led Youth Development Public Union, a fundraising NGO for underprivileged children.
-- Mentored two new hires through successful onboarding as the Strategic Marketing Manager.
 - Successfully delivered multiple projects as a member of several agile software development teams while at Makers Academy.
 
 #### Fast and adaptable learner
 
-I take pride in my innate intellectual curiosity and genuine desire to understand how things work. The diversity of experiences I have been through taught me an essential skill required of many successful software developers - the ability to learn quickly and efficiently. Some examples include:
+I take pride in my innate intellectual curiosity and genuine desire to understand how things work. The diversity of experiences I have been through taught me the ability to learn quickly and efficiently. Some examples include:
 
 - Built a [single-page map application](https://github.com/GunelMC/betwixt) within 10 days using an entirely new library (React) and framework (Next.js) with only limited previous Javascript knowledge.
 - Taught myself how to manipulate databases using advanced SQL queries within a month for my job within the Growth and Analytics team.
 - Earned a state scholarship for a masters program after 20 days of preparation.
-- Taught myself Spanish within a month of arriving in Barcelona.
 
 #### Understanding of Databases:
 
