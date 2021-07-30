@@ -145,7 +145,7 @@ Working in fast-paced project-based environments such as consulting, project man
 
 #### Effective Communication, Teamwork and Leadership skills
 
-I have extensive experience working with people from diverse backgrounds, solving problems in team settings and presenting findings to both technical and non-technical teams. Some examples include:
+I have extensive experience working with people from diverse backgrounds, solving problems in high-pressure team settings and presenting findings to both technical and non-technical teams. Some examples include:
 
 - Won MBA [Capstone Project Competition](https://mba.iese.edu/program/curriculum-content/capstone/) "Social Media (Enterprise Sales) Strategy for Hewlett Packard Enterprise", as part of a 5-member multinational team.
 - Delivered multiple presentations in front of internal and external stakeholders as a consultant at Gallup while working closely with cross-functional project teams based in the UK, USA, Germany and Bahrain.
