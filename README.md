@@ -30,9 +30,7 @@ A quick learner with cross-functional team experience in both analytical and cus
 
 ## Tech Stack
 
-<p align="left"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GunelMC&layout=compact&theme=radical" alt="Gunel MC's Top Languages"/></p>
-
-- Programming languages (JavaScript, Ruby, Python)
+- Programming languages (JavaScript, Java, Ruby, Python)
 - Web Frameworks (React, Ruby on Rails, Next.js)
 - Databases (PostgreSQL/MySQL/ActiveRecord)
 - Object-Oriented Design (OOD), Controller Design Patterns, RESTful APIs, SOLID principles
